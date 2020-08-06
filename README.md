@@ -22,7 +22,7 @@
 
 ---
 
-+ As a part-time job at "typeiran" website
++ As a part-time job at "typeiran" website i do :
 - word office
 - powerpoint office
 - Latex
