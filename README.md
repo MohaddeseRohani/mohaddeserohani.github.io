@@ -56,6 +56,13 @@
 + <a href = "mailto: https://quera.ir/profile/almas_15r">Quera</a>
 + <a href = "mailto: almas_15r@yahoo.com">Send Email</a>
 
+### <p dir="rtl" align="right">check list:</p>
+
+<hr/>
+
+<p dir="rtl" align="right"><a href = "mailto: http://s11.picofile.com/d/8406542876/54cf842e-f80e-4ddb-88c9-3e7f8eb75490/arzyabi.pdf">✿ check list </a></p>
+<p dir="rtl" align="right"><a href = "mailto: https://mohaddeserohani.github.io/Persianresume/">✿ Persian Resume </a></p>
+
 
 <p>theme: jekyll-theme-leap-day
 <p>title: Mohaddese Rohani
