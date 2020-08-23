@@ -9,10 +9,10 @@
 
 + Date
   - 8/6/2020
-+Bio:
-hey everyone! im mohadese rohani ,
-im a software engineer student at Pnu university of North Tehran
-i was born in  November 5, 1997
+<p> +Bio:
+<br>hey everyone! im mohadese rohani ,
+<br>im a software engineer student at Pnu university of North Tehran
+<br>i was born in  November 5, 1997
 
 
 ### Skills
