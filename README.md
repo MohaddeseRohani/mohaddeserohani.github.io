@@ -53,15 +53,15 @@
 
 ---
 
-+ <a href = "mailto: https://quera.ir/profile/almas_15r">Quera</a>
++ <a href = "https://quera.ir/profile/almas_15r">Quera</a>
 + <a href = "mailto: almas_15r@yahoo.com">Send Email</a>
 
 ### check list:
 
 <hr/>
 
-<a href = "mailto: http://s11.picofile.com/d/8406542876/54cf842e-f80e-4ddb-88c9-3e7f8eb75490/arzyabi.pdf">✿ check list </a>
-<a href = "mailto: https://mohaddeserohani.github.io/Persianresume/">✿ Persian Resume </a>
+<a href = " http://s11.picofile.com/d/8406542876/54cf842e-f80e-4ddb-88c9-3e7f8eb75490/arzyabi.pdf">✿ check list </a>
+<a href = " https://mohaddeserohani.github.io/Persianresume/">✿ Persian Resume </a>
 
 
 <p>theme: jekyll-theme-leap-day
