@@ -9,7 +9,7 @@
 
 + Date
   - 8/6/2020
-    <html>
+<html>
 <body>
 <p> +Bio:
 <br>hey everyone! im mohadese rohani ,
@@ -54,8 +54,11 @@
 ---
 
 + https://quera.ir/profile/almas_15r
-<a href = "mailto: almas_15r@yahoo.com">Send Email</a>  
-
+<html>
+<body>
+<p><a href = "mailto: almas_15r@yahoo.com">Send Email</a>  
+</body>
+</html>
 
 
 theme: jekyll-theme-leap-day
