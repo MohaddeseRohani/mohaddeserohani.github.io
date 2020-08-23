@@ -49,7 +49,7 @@
   - Payame Noor University - Tehran
   - since October 2018 
   
-### Quera Profile Link
+### Contact me :
 
 ---
 
