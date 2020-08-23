@@ -54,7 +54,7 @@
 ---
 
 + <a href = "mailto: https://quera.ir/profile/almas_15r">Quera</a>
-+<p><a href = "mailto: almas_15r@yahoo.com">Send Email</a>
++ <a href = "mailto: almas_15r@yahoo.com">Send Email</a>
 
 
 <p>theme: jekyll-theme-leap-day
