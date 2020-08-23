@@ -56,7 +56,7 @@
 + https://quera.ir/profile/almas_15r
 <html>
 <body>
-<p><a href = "mailto: almas_15r@yahoo.com">Send Email</a>  
+<p><a href = "mailto: almas_15r@yahoo.com">Send Email</a><\p>  
 </body>
 </html>
 
