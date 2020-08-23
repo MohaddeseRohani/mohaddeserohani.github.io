@@ -53,7 +53,7 @@
 
 ---
 
-+ https://quera.ir/profile/almas_15r
++ <a href = "mailto: https://quera.ir/profile/almas_15r">Quera</a>
 <html>
 <body>
 <p><a href = "mailto: almas_15r@yahoo.com">Send Email</a><\p>  
@@ -61,6 +61,6 @@
 </html>
 
 
-theme: jekyll-theme-leap-day
-title: Mohaddese Rohani
+<p>theme: jekyll-theme-leap-day<\p>
+<p>title: Mohaddese Rohani<\p>
 
