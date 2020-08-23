@@ -1,9 +1,7 @@
 # Mrohani.github.io
 <html>
 <body>
-
-<img src="http://s10.picofile.com/file/8406531992/photo_2020_08_23_15_38_36.jpg" alt="Mohaddese" width="500" height="500">
-
+<img src="http://s10.picofile.com/file/8406531992/photo_2020_08_23_15_38_36.jpg" alt="Mohaddese" width="400" height="400">
 </body>
 </html>
 ---
@@ -11,6 +9,11 @@
 
 + Date
   - 8/6/2020
++Bio:
+hey everyone! im mohadese rohani ,
+im a software engineer student at Pnu university of North Tehran
+i was born in  November 5, 1997
+
 
 ### Skills
 
@@ -47,6 +50,7 @@
 ---
 
 + https://quera.ir/profile/almas_15r
+<a href = "mailto: almas_15r@yahoo.com">Send Email</a>  
 
 
 
