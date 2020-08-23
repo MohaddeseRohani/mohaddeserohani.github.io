@@ -1,5 +1,4 @@
 # Mrohani.github.io
-<!DOCTYPE html>
 <html>
 <body>
 
@@ -7,8 +6,8 @@
 
 </body>
 </html>
-### Resume
 ---
+### Resume
 
 + Date
   - 8/6/2020
