@@ -61,7 +61,7 @@
 <hr/>
 
 <a href = " http://s11.picofile.com/d/8406542876/54cf842e-f80e-4ddb-88c9-3e7f8eb75490/arzyabi.pdf">✿ check list </a>
-<a href = " https://mohaddeserohani.github.io/Persianresume/">✿ Persian Resume </a>
+<a href = " https://mohaddeserohani.github.io/Persianresume/">✿ Persian Resume </a></p>
 
 
 <p>theme: jekyll-theme-leap-day
