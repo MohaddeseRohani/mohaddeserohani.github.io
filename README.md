@@ -3,7 +3,7 @@
 <html>
 <body>
 
-<img src="http://s10.picofile.com/file/8406531992/photo_2020_08_23_15_38_36.jpg" alt="Mohaddese" width="200" height="200">
+<img src="http://s10.picofile.com/file/8406531992/photo_2020_08_23_15_38_36.jpg" alt="Mohaddese" width="500" height="500">
 
 </body>
 </html>
