@@ -1,7 +1,7 @@
 # Mrohani.github.io
 <html>
 <body>
-<img src="http://s10.picofile.com/file/8406531992/photo_2020_08_23_15_38_36.jpg" alt="Mohaddese" width="400" height="400">
+<img src="http://s10.picofile.com/file/8406531992/photo_2020_08_23_15_38_36.jpg" alt="Mohaddese" width="350" height="400">
 </body>
 </html>
 ---
@@ -56,11 +56,9 @@
 + <a href = "mailto: https://quera.ir/profile/almas_15r">Quera</a>
 <html>
 <body>
-<p><a href = "mailto: almas_15r@yahoo.com">Send Email</a><\p>  
-</body>
-</html>
++<p><a href = "mailto: almas_15r@yahoo.com">Send Email</a>
 
 
-<p>theme: jekyll-theme-leap-day<\p>
-<p>title: Mohaddese Rohani<\p>
+<p>theme: jekyll-theme-leap-day
+<p>title: Mohaddese Rohani
 
