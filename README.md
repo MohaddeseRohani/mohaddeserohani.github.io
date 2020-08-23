@@ -60,8 +60,8 @@
 
 <hr/>
 
-<p dir="rtl" align="right"><a href = "mailto: http://s11.picofile.com/d/8406542876/54cf842e-f80e-4ddb-88c9-3e7f8eb75490/arzyabi.pdf">✿ check list </a></p>
-<p dir="rtl" align="right"><a href = "mailto: https://mohaddeserohani.github.io/Persianresume/">✿ Persian Resume </a></p>
+<a href = "mailto: http://s11.picofile.com/d/8406542876/54cf842e-f80e-4ddb-88c9-3e7f8eb75490/arzyabi.pdf">✿ check list </a>
+<a href = "mailto: https://mohaddeserohani.github.io/Persianresume/">✿ Persian Resume </a>
 
 
 <p>theme: jekyll-theme-leap-day
