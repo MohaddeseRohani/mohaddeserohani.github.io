@@ -1,4 +1,6 @@
 # Mrohani.github.io
+
+### Resume
 <!DOCTYPE html>
 <html>
 <body>
@@ -7,8 +9,6 @@
 
 </body>
 </html>
-### Resume
-
 ---
 
 + Date
