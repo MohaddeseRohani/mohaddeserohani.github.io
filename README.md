@@ -59,7 +59,7 @@
 
 <hr/>
 
-<p><a href = " http://s11.picofile.com/d/8406542876/54cf842e-f80e-4ddb-88c9-3e7f8eb75490/arzyabi.pdf">✿ check list </a></p>
+<p><a href = " http://s11.picofile.com/file/8406592250/mr_CV_CheckList_AR_3983.pdf.html">✿ check list </a></p>
 <p><a href = " https://mohaddeserohani.github.io/Persianresume/">✿ Persian Resume </a></p>
 
 
