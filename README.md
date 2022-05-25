@@ -1,6 +1,6 @@
 <html>
 <body>
-<img src="http://s10.picofile.com/file/8406531992/photo_2020_08_23_15_38_36.jpg" alt="Mohaddese" width="250" height="250">
+<img src="" alt="Mohaddese" width="250" height="250">
 </body>
 </html>
 ---
@@ -22,8 +22,7 @@
 
 ---
 
-+ Programming Languages (java,C++)
-+ Backend developer
+
 + Web design
 + Database (Beginner)
 + Graphic design
